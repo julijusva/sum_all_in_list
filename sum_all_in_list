@@ -1,0 +1,6 @@
+array = [8, 2, 3, 0, 7]
+
+def suma(param1):
+   return sum(param1)
+
+print suma(array)
